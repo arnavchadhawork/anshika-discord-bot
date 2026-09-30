@@ -80,8 +80,7 @@ SHOCKING_ROASTS = [
     "{user} Kutte ki aulad, teri behen ki chut phaad ke uske bacche nikaal lungi",
     "{user} Madarchod, teri maa ko chodte hue uske muh se gaali nikalwaungi",
     "{user} Bhosdiwale kamine, teri behen ki gaand faad ke uske andar apna thook daal dungi",
-]
-]
+
 
 # ================= DYNAMIC COMBO GENERATOR (8,000+ UNIQUE COMBINATIONS) ================= #
 # Har baar alag prefix + roast + punchline judkar naya roast banta hai
