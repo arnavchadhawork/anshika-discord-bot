@@ -57,9 +57,9 @@ SHOCKING_ROASTS =[
     "{user} tu wahi hai na jo pani peete waqt bhi choke kar jata hai?",
     "{user} tere sath 2 minute baat kar lo toh headache ki tablet advance me leni padti hai!",
     "{user} tere muh se bas hawa nikal rahi hai, content 0% aur bakwaas 100%!",
-    "{user} chal nikal, tere jaise chomu ko reply dena bhi time waste hai!"
+    "{user} chal nikal, tere jaise chomu ko reply dena bhi time waste hai!",
     # ================ 20+ EXTREME GIRL ROASTS ================ #
-# Ladki bot style - bahut heavy gaaliyan
+    # Ladki bot style - bahut heavy gaaliyan
     "{user} Madarchod, teri maa ki chut mein apna haath daal ke uska ras nikaal lungi",
     "{user} Behenchod kutte, teri behen ki gaand itni faadungi ki woh chal nahi payegi",
     "{user} Bhosdike, teri maa ko nanga karke uski chuchiyaan daba ke uske muh mein thookungi",
@@ -79,7 +79,8 @@ SHOCKING_ROASTS =[
     "{user} Behen ke laude, teri gaand mein itna maal daalungi ki tu chillata rahega",
     "{user} Kutte ki aulad, teri behen ki chut phaad ke uske bacche nikaal lungi",
     "{user} Madarchod, teri maa ko chodte hue uske muh se gaali nikalwaungi",
-    "{user} Bhosdiwale kamine, teri behen ki gaand faad ke uske andar apna thook daal dungi",
+    "{user} Bhosdiwale kamine, teri behen ki gaand faad ke uske andar apna thook daal dungi"
+]
 
 
 # ================= DYNAMIC COMBO GENERATOR (8,000+ UNIQUE COMBINATIONS) ================= #
