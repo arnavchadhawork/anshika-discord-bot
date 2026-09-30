@@ -9,7 +9,7 @@ _recent_history = deque(maxlen=40)
 
 # ================= 60+ SHOCKING & SAVAGE ROASTS ================= #
 # Ek se badhkar ek hairan kar dene wale roasts
-SHOCKING_ROASTS = [
+SHOCKING_ROASTS =[
     "{user} bhai tera IQ dekh kar lagta hai ki thermometer me mercury bhi sharm se neeche gir jaye!",
     "{user} bhagwan jab dimaag baant rahe the, tab tu kahan tha? Lays ke packet me hawa gin raha tha kya?",
     "{user} teri baatein sunkar lagta hai ki shampoo ki bottle par jo 'Do Not Drink' likha hota hai, wo tere liye hi likha gaya tha!",
