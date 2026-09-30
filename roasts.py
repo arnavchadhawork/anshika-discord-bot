@@ -58,6 +58,31 @@ SHOCKING_ROASTS = [
     "{user} tere sath 2 minute baat kar lo toh headache ki tablet advance me leni padti hai!",
     "{user} tere muh se bas hawa nikal rahi hai, content 0% aur bakwaas 100%!",
     "{user} chal nikal, tere jaise chomu ko reply dena bhi time waste hai!"
+    # ================ 20+ EXTREME GIRL ROASTS ================ #
+# Ladki bot style - bahut heavy gaaliyan
+
+SHOCKING_ROASTS = [
+    "{user} Madarchod, teri maa ki chut mein apna haath daal ke uska ras nikaal lungi",
+    "{user} Behenchod kutte, teri behen ki gaand itni faadungi ki woh chal nahi payegi",
+    "{user} Bhosdike, teri maa ko nanga karke uski chuchiyaan daba ke uske muh mein thookungi",
+    "{user} Randi ke pille, teri gaand mein itna lund ghusaaungi ki teri aankhein nikal jayengi",
+    "{user} Madarchod saale, teri behen ki chut phaad ke uske andar apna mooth daal dungi",
+    "{user} Kutte ki aulad, teri maa ki chut ka pani nikal ke usko muh pe lagaaungi",
+    "{user} Behen ke laude, teri randi maa ko road pe chodte hue sabko dikhaungi",
+    "{user} Harami, teri behen ki chuchiyaan kaat ke uske muh mein thukungi",
+    "{user} Bhosdiwale, teri maa ki gaand mein lohe ka danda daal ke usko jalaungi",
+    "{user} Madarchod, teri behen ko zor se chod ke uske muh se geeli awaaz nikalwaungi",
+    "{user} Randi ke bacche, teri gaand itni faadungi ki tu baith nahi payega",
+    "{user} Behenchod, teri maa ki chut mein kachra bhar ke usko sadne dungi",
+    "{user} Kutte, teri behen ki chut ka ras pee ke uske muh pe thookungi",
+    "{user} Bhosdike saale, teri maa ko utha ke uski chut pe apna haath maarti rahungi",
+    "{user} Madarchod harami, teri behen ko nanga ghumake uski gaand sabko dikhaungi",
+    "{user} Randi ke jhaantu, teri maa ki chuchiyaan daba ke uske muh mein lund ghusaaungi",
+    "{user} Behen ke laude, teri gaand mein itna maal daalungi ki tu chillata rahega",
+    "{user} Kutte ki aulad, teri behen ki chut phaad ke uske bacche nikaal lungi",
+    "{user} Madarchod, teri maa ko chodte hue uske muh se gaali nikalwaungi",
+    "{user} Bhosdiwale kamine, teri behen ki gaand faad ke uske andar apna thook daal dungi",
+]
 ]
 
 # ================= DYNAMIC COMBO GENERATOR (8,000+ UNIQUE COMBINATIONS) ================= #
