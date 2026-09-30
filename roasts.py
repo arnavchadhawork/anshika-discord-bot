@@ -60,8 +60,6 @@ SHOCKING_ROASTS = [
     "{user} chal nikal, tere jaise chomu ko reply dena bhi time waste hai!"
     # ================ 20+ EXTREME GIRL ROASTS ================ #
 # Ladki bot style - bahut heavy gaaliyan
-
-SHOCKING_ROASTS = [
     "{user} Madarchod, teri maa ki chut mein apna haath daal ke uska ras nikaal lungi",
     "{user} Behenchod kutte, teri behen ki gaand itni faadungi ki woh chal nahi payegi",
     "{user} Bhosdike, teri maa ko nanga karke uski chuchiyaan daba ke uske muh mein thookungi",
